@@ -26,4 +26,5 @@ service UserService {
     string firstName = 4;
     string lastName = 5;
     string phoneNumber = 6;
+    int32 amount = 7;
   }
