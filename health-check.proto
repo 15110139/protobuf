@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package health_check
+package health_check;
 
 message HealthCheckRequest {
   string service = 1;
